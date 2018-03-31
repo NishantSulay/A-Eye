@@ -8,7 +8,7 @@ Object classification on RaspberryPi3 using TensorFlow and Google Cloud Vision
 
 
 ## Training
-* Training steps can be varied for higher accuracy however if higher accuracy during training can lead to overfitting. Accuracy of 88-93% preferred during training.
+* Training steps can be varied for higher accuracy however higher accuracy during training can lead to overfitting. Accuracy of 88-93% preferred during training.
 
 * Example below with %userprofile% as destination containing tf_files directory.
 
